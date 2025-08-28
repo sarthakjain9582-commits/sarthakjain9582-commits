@@ -22,6 +22,6 @@ Here are a few of my projects:
 2- Kbc- In contrast to the popular indian TV serial "kaun banega crorepati" I tried recreating the actual mechanism 
 
 📫 Connect With Me:
-https://www.linkedin.com/in/sarthak-jain-927630312/
-https://leetcode.com/u/Sarthak_Jain_/
-COontact number - 9582304985
+1- https://www.linkedin.com/in/sarthak-jain-927630312/
+2- https://leetcode.com/u/Sarthak_Jain_/
+3- Contact number - 9582304985
