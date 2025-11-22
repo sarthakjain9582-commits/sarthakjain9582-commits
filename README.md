@@ -11,9 +11,9 @@ I’m Sarthak Jain, a passionate Computer Science student exploring the world of
 
 🛠 Tech Stack
 
-Languages: basic Python, Java, JavaScript
+Languages: basic Python, C, JavaScript
 Web: basic HTML, CSS
-Tools: baisc GitHub, VS Code
+Tools: basic GitHub, VS Code
 
 📌 Projects
 
@@ -24,4 +24,3 @@ Here are a few of my projects:
 📫 Connect With Me:
 1- https://www.linkedin.com/in/sarthak-jain-927630312/
 2- https://leetcode.com/u/Sarthak_Jain_/
-3- Contact number - 9582304985
