@@ -18,8 +18,7 @@ Tools: basic GitHub, VS Code
 📌 Projects
 
 Here are a few of my projects:
-1- Secretcode- I tried creating a secret code language which only the people with access to my code can ENCODE OR DECODE
-2- Kbc- In contrast to the popular indian TV serial "kaun banega crorepati" I tried recreating the actual mechanism 
+ 
 
 📫 Connect With Me:
 1- https://www.linkedin.com/in/sarthak-jain-927630312/
